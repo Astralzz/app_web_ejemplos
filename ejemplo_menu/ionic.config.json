@@ -1,0 +1,7 @@
+{
+  "name": "ejemplo_menu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

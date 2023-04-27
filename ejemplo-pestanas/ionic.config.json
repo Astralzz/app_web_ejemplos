@@ -1,0 +1,7 @@
+{
+  "name": "ejemplo_pestañas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
